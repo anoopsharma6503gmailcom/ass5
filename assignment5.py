@@ -2,8 +2,10 @@
 string=input("Enter the the string :")
 print(string[::-1])
 #solution 1
+"""
 Enter the the string :wycuydbcygqu
 uqgycbdyucyw
+"""
 
 #Ques 2
 x,y=(input("Enter the range of numbers: ").split())
